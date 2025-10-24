@@ -80,8 +80,8 @@ Automatically act on your data and communicate using third-party services like T
 #include "ThingSpeak.h"
 #include <WiFi.h>
 
-char ssid[]="Redmi 12 5G";
-char pass[]="dharshini";
+char ssid[]="***";
+char pass[]="***";
 WiFiClient client;
 
 const int out=2;
